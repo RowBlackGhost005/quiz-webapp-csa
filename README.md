@@ -1,6 +1,6 @@
 ﻿# Quiz Web App
 
- Small web app that shows you 10 random questions to answer.
+Small web app that shows you 10 random questions to answer.
 
 Try it: https://rowblackghost005.github.io/quiz-webapp-csa/
 
